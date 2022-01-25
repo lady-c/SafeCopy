@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 from sys import exit
 
-original = r'C:\Users\charl\AppData\Roaming\DarkSoulsIII\0110000103a1776a'
+original = r'C:\Users\USERNAME\AppData\Roaming\DarkSoulsIII\0110000103a1776a'
 targetpath = r'E:\Mes documents\Dark Souls 3 - save files\SafeCopy\save'
 
 while True:
